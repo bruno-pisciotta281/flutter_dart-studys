@@ -1,6 +1,9 @@
 # Widget para entrada de dados
 
-- Códigos para rodar a aplicação (feita utilizando o site ([ZAPP](https://zapp.run)))
+<img src = ''>
+<img src = ''>
+
+- Códigos para rodar a aplicação (feita utilizando a plataforma [ZAPP](https://zapp.run))
 
 ```bash
 import 'package:flutter/material.dart';
