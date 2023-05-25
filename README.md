@@ -9,7 +9,7 @@
 </div>
 
 <br>
-- Códigos para rodar a aplicação (feita utilizando a plataforma [ZAPP](https://zapp.run))
+- Códigos para rodar a aplicação (feita utilizando a plataforma (https://zapp.run)
 
 
 ```bash
