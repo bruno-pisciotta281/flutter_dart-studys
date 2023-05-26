@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/52466841?v=4" width="200px;"/></p>
+<p align="center"><img src="https://github.com/bruno-pisciotta281/flutter_dart-studys/blob/main/download.png" width="200px;"/></p>
 
 
 <p align="center">Repositório reservado para os estudos e projetos sobre Dart e Flutter além da matéria de Desenvolvimento Mobile II do curso de Desenvolvimento de Software Multiplataforma - Fatec SJC .</p>
