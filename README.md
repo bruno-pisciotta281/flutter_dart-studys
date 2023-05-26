@@ -5,7 +5,7 @@
 
 <img src = 'https://github.com/bruno-pisciotta281/flutter_dart-studys/blob/SIMULADO/Simulado.png'  width="500">
 
-<p>OBS: Como não haviam perguntas e nem respostas no exemplo criei um padrão e fiz com que as questões corretas fossem aquelas que contiam o número 3 e letras vogais, enquanto as outras estão todas erradas.</p>
+<p>OBS: Como não haviam perguntas e nem respostas no exemplo criei um padrão e fiz com que as questões corretas fossem aquelas que contiam o número 3 e letras vogais, enquanto as outras estavam todas erradas.</p>
   
 </div>
 
