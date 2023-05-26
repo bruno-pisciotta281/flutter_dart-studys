@@ -9,6 +9,8 @@ Permitir acesso a segunda tela, somente se login for válido (login estático, p
 A segunda tela deve mostrar uma lista (utilizando checkbox), onde o usuário deverá indicar quais tecnologias de desenvolvimento mobile, tem conhecimento. As opções sao: Flutter, React Native, Kotlin, Java, Ionic.
 A segunda tela deve conter um boão "enviar", ao selecionar o botão, as opções selecionadas no checkbox devem ser enviadas por parâmetro para uma terceira tela e visualizá-las em um listview, com a mensagem de texto (após o listview) indicando "informações enviadas ao servidor" (simulação apenas).</p>
 
+ ![](https://github.com/bruno-pisciotta281/flutter_dart-studys/blob/PROVA/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
+  
 </div>
 
 <br>
